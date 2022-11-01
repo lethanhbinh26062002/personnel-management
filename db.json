@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "email": "binhltph16803@fpt.edu.vn",
+      "password": "$2a$10$JBFLqdTgbopyiI9o2cYeLeA3jvfX9iSLGhfdA4P3qIu9ZbYyv9tQG",
+      "username": "binh",
+      "id": 1
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "$2a$10$4h45Br6T71f04b4nWWF1YOtr/Qmb035lBuRRJLrBSxNH.V7uCELUi",
+      "username": "a",
+      "id": 2
+    },
+    {
+      "email": "lethanhbinh@gmail.com",
+      "password": "$2a$10$o8GCa6ErBjkgnEKPq/IrsODh3.iA0ebTZNvJKH6F4T.mUFxk6ZgaO",
+      "username": "binhltph",
+      "id": 3
+    },
+    {
+      "email": "lethanhbinh26062002@gmail.com",
+      "password": "$2a$10$SCc/PYmTF.cn8bXYc.NzOeWh9YTK0KBKc.WNEWm57WjA4LS70yhSq",
+      "username": "binhltph",
+      "id": 4
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$iYg71DuGSWJTo8lbvBOXR.P6b9dh5kfFW/S6ySnyQfddNdtq6X67q",
+      "username": "abc",
+      "id": 5
+    },
+    {
+      "email": "aaaa@gmail.com",
+      "password": "$2a$10$DBw6hFI0lYDFV8hep/1rCul9Bb9N84lKYvNe5xOIQWb9pb2CrSW76",
+      "username": "aaaa",
+      "id": 6
+    },
+    {
+      "email": "abcd@gmail.com",
+      "password": "$2a$10$8yus7E6wDlG.Y08e82YHq.UNUVSbf.8Az3G5Azht0xYoW97X4al7m",
+      "username": "abcd",
+      "id": 7
+    },
+    {
+      "email": "binh123@gmail.com",
+      "password": "$2a$10$Qqku9GUIxjQ0rg0SFEBtUeF5EOo0im8UybTkFBVfpAQvjQIWgxq4u",
+      "username": "binh",
+      "id": 8
+    },
+    {
+      "email": "kien123@gmail.com",
+      "password": "$2a$10$L9yCLaDCyxe78iuax1ABBeCnOTNYzyHBv.0PuuP3Pt4tn3YLt3HFi",
+      "username": "kien",
+      "id": 9
+    },
+    {
+      "email": "kien1234@gmail.com",
+      "password": "$2a$10$py.1e4v2tCahFmgKn9jmOugHl5j1FveZSGW0UvYI7IJ6AANi8pKTC",
+      "username": "kien",
+      "id": 10
+    },
+    {
+      "email": "binh@gmail.com",
+      "password": "$2a$10$txT3gJIhi6l6ZTKTADyxZuGYV0Fx89M1Hx4HSSkns06ZkjPD1amGW",
+      "username": "binh",
+      "id": 11
+    }
+  ],
+  "personnel": [
+    {
+      "name": "Lê Thanh Bình",
+      "img": "http://res.cloudinary.com/dyeta9a1r/image/upload/v1644463150/ozov5zsmpj7bwsiwq61w.png",
+      "position": "Nhân viên",
+      "tel": "3545345345",
+      "id": "8MEW1DZ"
+    },
+    {
+      "id": "84poVGF",
+      "name": "Hòa",
+      "img": "http://res.cloudinary.com/dyeta9a1r/image/upload/v1667319923/e52bfs0zn5hldvm5grvm.jpg",
+      "position": "Nhân viên",
+      "tel": "3545345345"
+    },
+    {
+      "name": "Huy",
+      "img": "http://res.cloudinary.com/dyeta9a1r/image/upload/v1667319829/fmltnhl9jqh7b5rqqtlg.jpg",
+      "tel": "24342342342",
+      "position": "Giám đốc",
+      "id": "YYZxfnO"
+    }
+  ]
+}
